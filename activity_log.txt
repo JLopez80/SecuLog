@@ -1,0 +1,5 @@
+2025-10-15 17:48:13,839 - INFO - Deleted file: download (1).jpg
+2025-10-15 17:48:13,843 - INFO - Deleted file: download (2).jpg
+2025-10-15 17:48:13,847 - INFO - Deleted file: download (3).jpg
+2025-10-15 17:48:13,851 - INFO - Deleted file: download.jpg
+2025-10-15 17:48:13,852 - WARNING - Rapid deletions detected: 4 files in 60 seconds

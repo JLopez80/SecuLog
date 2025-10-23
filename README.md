@@ -54,6 +54,9 @@ Once you've confirmed that all requirements are installed, follow these steps (c
      - Log all actions in **activity_log.txt**
     
 3. **Check Results**
+   - Recovered files will appear in the [Recovered](Recovered) folder.
+   - Logs are written in [activity_log.txt](activity_log.txt)
+
 
        
 

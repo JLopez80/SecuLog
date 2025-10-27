@@ -3,3 +3,18 @@
 2025-10-15 17:48:13,847 - INFO - Deleted file: download (3).jpg
 2025-10-15 17:48:13,851 - INFO - Deleted file: download.jpg
 2025-10-15 17:48:13,852 - WARNING - Rapid deletions detected: 4 files in 60 seconds
+2025-10-15 21:04:20,451 - INFO - Deleted file: 20220303_222843.jpg
+2025-10-15 21:04:36,080 - INFO - Deleted file: download (1).jpg
+2025-10-15 21:04:36,088 - INFO - Deleted file: download (2).jpg
+2025-10-15 21:04:36,094 - INFO - Deleted file: download (3).jpg
+2025-10-15 21:04:36,094 - WARNING - Rapid deletions detected: 4 files in 60 seconds
+2025-10-15 21:04:36,099 - INFO - Deleted file: download.jpg
+2025-10-16 11:03:32,506 - INFO - Deleted file: download (1).jpg
+2025-10-16 11:03:32,520 - INFO - Deleted file: download (2).jpg
+2025-10-16 11:03:32,532 - INFO - Deleted file: download (3).jpg
+2025-10-16 11:03:32,546 - INFO - Deleted file: download.jpg
+2025-10-16 11:03:32,548 - WARNING - Rapid deletions detected: 4 files in 60 seconds
+2025-10-16 11:03:32,563 - INFO - Recovered file: download (1).jpg
+2025-10-16 11:03:32,583 - INFO - Recovered file: download (2).jpg
+2025-10-16 11:03:32,592 - INFO - Recovered file: download (3).jpg
+2025-10-16 11:03:32,602 - INFO - Recovered file: download.jpg

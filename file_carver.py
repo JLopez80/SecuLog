@@ -11,7 +11,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-SUPPORTED_EXTENSIONS = ('.jpg', '.jpeg', '.png', '.pdf')
+SUPPORTED_EXTENSIONS = ('.jpg', '.jpeg', '.png', '.pdf','.doc', '.docx', '.ppt', '.pptx')
 
 def hash_file(path):
     """Generate SHA256 hash for a file (optional, for integrity)."""

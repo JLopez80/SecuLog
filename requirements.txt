@@ -1,1 +1,9 @@
-
+## Requirements
+Make sure the following requirements are met:
+- **Python 3.8 or higher** 
+  - Install Python from: [python.org](https://www.python.org/downloads/)
+    
+- **Watchdog library** - Used to monitor folder events in real time
+  ```bash
+       pip install watchdog
+  

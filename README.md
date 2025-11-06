@@ -28,9 +28,9 @@ Once you've confirmed that all requirements are installed, follow these steps (c
            mkdir SecuLog
            cd SecuLog
    - Place Python files into this folder.
-     - [main.py](main.py)
-     - [monitor.py](monitory.py)
-     - [file_carver.py](file_carver.py)
+     - [main.py](./src/main.py)
+     - [monitor.py](./src/monitory.py)
+     - [file_carver.py](./src/file_carver.py)
        - **✅ Note:** The project will automatically create the folders .snapshot/ and Recovered/ when you run it, so you don’t need to create them manually.  
 
 2. **Run the Project**

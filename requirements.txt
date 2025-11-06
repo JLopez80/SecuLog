@@ -1,9 +1,17 @@
-## Requirements
-Make sure the following requirements are met:
-- **Python 3.8 or higher** 
-  - Install Python from: [python.org](https://www.python.org/downloads/)
-    
-- **Watchdog library** - Used to monitor folder events in real time
-  ```bash
-       pip install watchdog
+PROJECT REQUIREMENTS
+
+Make sure the following requirements are met for the application to run successfully:
+
+PYTHON 3.8 OR HIGHER
+  - Install Python from the official website:
+      https://www.python.org/downloads/
+
+WATCHDOG LIBRARY
+  - Purpose: Used to monitor folder events in real time.
+
+  - Installation Command:
+    - pip install watchdog
+
+NOTES
+If you are using a virtual environment, make sure it is activated before running the installation comman
   

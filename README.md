@@ -2,7 +2,7 @@
 A Python-based file monitoring and recovery tool designed for digital forensics and security analysis. It continiously monitors a directory for suspicious activity such as rapid file deletion. It also logs every event and automatically recovers deleted files from a stored snapshot.
 
 ## Getting Started
-Once you've confirmed that all requirements are installed, follow these steps (can be done in terminal or code editor. Up to preference):
+Confirm all [requirments](requirements.txt) are met (can be done in terminal or code editor. Up to preference):
 1. **Create the Project Folder**
    - Choose a location on your computer where you want to keep SecuLog.
    - Create a folder with your preferred name.
@@ -37,7 +37,7 @@ Once you've confirmed that all requirements are installed, follow these steps (c
      - Log all actions in **activity_log.txt**
     
 3. **Check Results**
-   - Recovered files will appear in the [Recovered](Recovered) folder.
+   - Recovered files will appear in the [Recovered](./src/Recovered) folder.
    - Logs are written in [activity_log.txt](activity_log.txt)
 
 

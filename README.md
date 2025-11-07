@@ -31,7 +31,7 @@ Confirm all [requirments](requirements.txt) are met (can be done in terminal or 
            Enter folder: C:\Users\YourName\Documents
        
    - After selecting the folder, the program will:
-     - Take initial snapshot of existing files in that folder (only **.jpg**, **.jpeg**, **.png**, and **.pdf**)
+     - Take initial snapshot of existing files in that folder (only **.jpg**, **.jpeg**, **.png**, **.pdf**, **.doc**, **.docx**, **.ppt**, and **.pptx**)
      - Start monitoring the folder for file deletions
      - Automatically recovers deleted files if suspicious (rapid deletion)
      - Log all actions in **activity_log.txt**

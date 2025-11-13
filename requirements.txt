@@ -13,5 +13,5 @@ WATCHDOG LIBRARY
     - pip install watchdog
 
 NOTES
-If you are using a virtual environment, make sure it is activated before running the installation comman
+If you are using a virtual environment, make sure it is activated before running the installation command.
   

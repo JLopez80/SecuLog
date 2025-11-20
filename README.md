@@ -20,8 +20,7 @@ Confirm all [requirments](requirements.txt) are met (can be done in terminal or 
    - Run the main program:
      - Terminal Example:
         ```bash
-            python main.py
-        IF the above does not work try the following:
+            python main.py ##IF this does not work try the following:
            py main.py
      - > ⚠️ On some systems, you may need to use python3 instead of python:
         ```bash

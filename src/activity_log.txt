@@ -7,3 +7,13 @@
 2025-11-06 11:20:40,663 - INFO - Recovered file: download (2).jpg
 2025-11-06 11:20:40,679 - INFO - Recovered file: download (3).jpg
 2025-11-06 11:20:40,708 - INFO - Recovered file: download.jpg
+2025-11-13 12:15:38,457 - INFO - Deleted file: download.jpg
+2025-11-13 12:15:38,471 - INFO - Deleted file: download (3).jpg
+2025-11-13 12:15:43,414 - INFO - Deleted file: download (1).jpg
+2025-11-13 12:15:43,431 - INFO - Deleted file: download (2).jpg
+2025-11-13 12:15:43,431 - WARNING - Rapid deletions detected: 4 files in 60 seconds
+2025-11-18 12:53:33,181 - INFO - Deleted file: download.jpg
+2025-11-18 12:54:26,872 - INFO - Deleted file: download (1).jpg
+2025-11-18 12:54:26,878 - INFO - Deleted file: download (2).jpg
+2025-11-18 12:54:26,884 - INFO - Deleted file: download (3).jpg
+2025-11-18 12:54:26,886 - WARNING - Rapid deletions detected: 4 files in 60 seconds

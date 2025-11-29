@@ -1,5 +1,5 @@
-# Insert Video Link Here
-   
+# Video Link: https://youtu.be/WSOdDpCrdds   
+
 # SecuLog
 A Python-based file monitoring and recovery tool designed for digital forensics and security analysis. It continiously monitors a directory for suspicious activity such as rapid file deletion. It also logs every event and automatically recovers deleted files from a stored snapshot.
 
